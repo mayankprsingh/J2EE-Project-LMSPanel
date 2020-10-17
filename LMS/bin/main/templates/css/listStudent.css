@@ -1,0 +1,25 @@
+.one{
+	font-family:comicsans;
+	box-shadow: 3px 3px 5px 5px;
+	width:100%;
+	
+}
+#batch{
+	padding:5px;
+	
+}
+.btn1{
+	border-radius: 20px;
+	background-color:red;
+	color:white;
+}
+.btn2{
+	border-radius: 20px;
+	background-color:orange;
+	color:black;
+}
+.btn3{
+	border-radius: 20px;
+	background-color:grey;
+	color:white;
+}
